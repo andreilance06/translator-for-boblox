@@ -1,0 +1,4 @@
+translators==4.7.20
+urllib3==1.26.4
+Flask==2.0.1
+gunicorn==19.9.0
